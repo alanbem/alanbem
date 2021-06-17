@@ -36,5 +36,7 @@ My name is __Alan__ - I am software engineer experienced in creating high-qualit
 ### Contact
 You can find me on [Twitter][1] or on [LinkedIn][2].
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Falanbem)
+
 [1]: https://twitter.com/alangbem
 [2]: https://www.linkedin.com/in/alanbem/
